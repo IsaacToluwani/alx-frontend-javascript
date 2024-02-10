@@ -1,1 +1,1 @@
-Tolu JavaScript classes
+ES6 Classes.
